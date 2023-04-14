@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vivek Prakash Yadav
-- 👀 I’m interested in ... Machine learninng , pythin and AI
+- 👀 I’m interested in ... Machine learninng , python and AI
 - 🌱 I’m currently learning ... Python and  c++
 - 📫 How to reach me ...
 - mail me at - vivekprakashydvofficial@gmail.com 
